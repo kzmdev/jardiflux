@@ -1,0 +1,5 @@
+/.idea
+/config
+/templates_c
+/templates/administration/cache
+/templates/administration/compile
